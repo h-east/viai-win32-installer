@@ -1,0 +1,8 @@
+*.rej
+*.orig
+*.swp
+*~
+
+/EnVar_plugin/
+/NsisMultiUser/
+/vim/
